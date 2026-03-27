@@ -350,6 +350,9 @@ export default function App() {
                 className="downloadAll"
                 href="/downloads/icons_all.zip"
                 download
+                data-track="download_all_icons"
+                data-track-id="header-download-all-icons"
+                data-track-meta='{"location":"header"}'
               >
                 下載全部圖示
               </a>
@@ -357,6 +360,9 @@ export default function App() {
                 className="downloadAll secondary"
                 href="/categories-manifest.json"
                 download
+                data-track="download_category_manifest"
+                data-track-id="header-download-category-manifest"
+                data-track-meta='{"location":"header"}'
               >
                 下載分類清單
               </a>
@@ -380,6 +386,12 @@ export default function App() {
                   key={section.category}
                   className="categoryAnchor"
                   href={`#${id}`}
+                  data-track="navigate_category"
+                  data-track-id={`category-nav-${id}`}
+                  data-track-meta={JSON.stringify({
+                    category: section.category,
+                    location: "category_nav",
+                  })}
                   onClick={(e) => {
                     e.preventDefault();
                     scrollToCategory(id);
@@ -425,6 +437,12 @@ export default function App() {
                         section.category
                       )}.zip`}
                       download
+                      data-track="download_category_zip"
+                      data-track-id={`category-download-${id}`}
+                      data-track-meta={JSON.stringify({
+                        category: section.category,
+                        location: "category_section_header",
+                      })}
                     >
                       下載此分類 ZIP
                     </a>
@@ -458,6 +476,13 @@ export default function App() {
                             <button
                               className="iconDownloadButton"
                               type="button"
+                              data-track="download_single_icon"
+                              data-track-id={`icon-download-${item.file}`}
+                              data-track-meta={JSON.stringify({
+                                category: section.category,
+                                iconName: item.name,
+                                file: item.file,
+                              })}
                               onClick={() => downloadIcon(item.url, item.file)}
                             >
                               <img
@@ -483,6 +508,9 @@ export default function App() {
         className={`backTopButton ${showBackTop ? "show" : ""}`}
         type="button"
         aria-label="回到頂部"
+        data-track="back_to_top"
+        data-track-id="floating-back-to-top"
+        data-track-meta='{"location":"floating_button"}'
         onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
       >
         <img
