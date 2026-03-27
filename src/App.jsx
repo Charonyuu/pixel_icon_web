@@ -314,7 +314,7 @@ export default function App() {
 
   return (
     <>
-      <div id="app" style={{ "--bg-image": "url(/bg.png)" }}>
+      <div id="app">
         <motion.header
           className="header"
           initial={isMobile ? { opacity: 0, y: -60 } : false}
