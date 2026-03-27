@@ -1,0 +1,1247 @@
+{
+  "totalCategories": 17,
+  "sections": [
+    {
+      "category": "3C電力",
+      "count": 15,
+      "items": [
+        {
+          "name": "手機充電線",
+          "file": "手機充電線.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E6%89%8B%E6%A9%9F%E5%85%85%E9%9B%BB%E7%B7%9A.png"
+        },
+        {
+          "name": "手機充電器",
+          "file": "手機充電器.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E6%89%8B%E6%A9%9F%E5%85%85%E9%9B%BB%E5%99%A8.png"
+        },
+        {
+          "name": "可攜喇叭",
+          "file": "可攜喇叭.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E5%8F%AF%E6%94%9C%E5%96%87%E5%8F%AD.png"
+        },
+        {
+          "name": "平板閱讀器",
+          "file": "平板閱讀器.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E5%B9%B3%E6%9D%BF%E9%96%B1%E8%AE%80%E5%99%A8.png"
+        },
+        {
+          "name": "耳機",
+          "file": "耳機.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E8%80%B3%E6%A9%9F.png"
+        },
+        {
+          "name": "相機_2",
+          "file": "相機_2.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%9B%B8%E6%A9%9F_2.png"
+        },
+        {
+          "name": "相機",
+          "file": "相機.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%9B%B8%E6%A9%9F.png"
+        },
+        {
+          "name": "相機記憶卡",
+          "file": "相機記憶卡.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%9B%B8%E6%A9%9F%E8%A8%98%E6%86%B6%E5%8D%A1.png"
+        },
+        {
+          "name": "相機電池",
+          "file": "相機電池.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%9B%B8%E6%A9%9F%E9%9B%BB%E6%B1%A0.png"
+        },
+        {
+          "name": "筆電",
+          "file": "筆電.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%AD%86%E9%9B%BB.png"
+        },
+        {
+          "name": "筆電充電器",
+          "file": "筆電充電器.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%AD%86%E9%9B%BB%E5%85%85%E9%9B%BB%E5%99%A8.png"
+        },
+        {
+          "name": "萬用轉接頭",
+          "file": "萬用轉接頭.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E8%90%AC%E7%94%A8%E8%BD%89%E6%8E%A5%E9%A0%AD.png"
+        },
+        {
+          "name": "線材轉接頭",
+          "file": "線材轉接頭.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E7%B7%9A%E6%9D%90%E8%BD%89%E6%8E%A5%E9%A0%AD.png"
+        },
+        {
+          "name": "隨身碟",
+          "file": "隨身碟.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E9%9A%A8%E8%BA%AB%E7%A2%9F.png"
+        },
+        {
+          "name": "聯絡人電話",
+          "file": "聯絡人電話.png",
+          "url": "/categories/3C%E9%9B%BB%E5%8A%9B/%E8%81%AF%E7%B5%A1%E4%BA%BA%E9%9B%BB%E8%A9%B1.png"
+        }
+      ]
+    },
+    {
+      "category": "介面",
+      "count": 15,
+      "items": [
+        {
+          "name": "上傳檔案",
+          "file": "上傳檔案.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88.png"
+        },
+        {
+          "name": "下載檔案",
+          "file": "下載檔案.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E4%B8%8B%E8%BC%89%E6%AA%94%E6%A1%88.png"
+        },
+        {
+          "name": "可愛機器人頭",
+          "file": "可愛機器人頭.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E5%8F%AF%E6%84%9B%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%A0%AD.png"
+        },
+        {
+          "name": "行事曆提醒",
+          "file": "行事曆提醒.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E8%A1%8C%E4%BA%8B%E6%9B%86%E6%8F%90%E9%86%92.png"
+        },
+        {
+          "name": "封存收納箱",
+          "file": "封存收納箱.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E5%B0%81%E5%AD%98%E6%94%B6%E7%B4%8D%E7%AE%B1.png"
+        },
+        {
+          "name": "重置循環箭頭",
+          "file": "重置循環箭頭.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E9%87%8D%E7%BD%AE%E5%BE%AA%E7%92%B0%E7%AE%AD%E9%A0%AD.png"
+        },
+        {
+          "name": "笑臉表情",
+          "file": "笑臉表情.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E7%AC%91%E8%87%89%E8%A1%A8%E6%83%85.png"
+        },
+        {
+          "name": "提醒便條",
+          "file": "提醒便條.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E6%8F%90%E9%86%92%E4%BE%BF%E6%A2%9D.png"
+        },
+        {
+          "name": "圓角勾選框已勾",
+          "file": "圓角勾選框已勾.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E5%9C%93%E8%A7%92%E5%8B%BE%E9%81%B8%E6%A1%86%E5%B7%B2%E5%8B%BE.png"
+        },
+        {
+          "name": "圓角勾選框空白",
+          "file": "圓角勾選框空白.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E5%9C%93%E8%A7%92%E5%8B%BE%E9%81%B8%E6%A1%86%E7%A9%BA%E7%99%BD.png"
+        },
+        {
+          "name": "資料夾",
+          "file": "資料夾.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E8%B3%87%E6%96%99%E5%A4%BE.png"
+        },
+        {
+          "name": "圖片圖示",
+          "file": "圖片圖示.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E5%9C%96%E7%89%87%E5%9C%96%E7%A4%BA.png"
+        },
+        {
+          "name": "檢查清單",
+          "file": "檢查清單.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E6%AA%A2%E6%9F%A5%E6%B8%85%E5%96%AE.png"
+        },
+        {
+          "name": "蘋果標誌",
+          "file": "蘋果標誌.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E8%98%8B%E6%9E%9C%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "警示提醒",
+          "file": "警示提醒.png",
+          "url": "/categories/%E4%BB%8B%E9%9D%A2/%E8%AD%A6%E7%A4%BA%E6%8F%90%E9%86%92.png"
+        }
+      ]
+    },
+    {
+      "category": "文件",
+      "count": 10,
+      "items": [
+        {
+          "name": "身分證",
+          "file": "身分證.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E8%BA%AB%E5%88%86%E8%AD%89.png"
+        },
+        {
+          "name": "保險影本",
+          "file": "保險影本.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E4%BF%9D%E9%9A%AA%E5%BD%B1%E6%9C%AC.png"
+        },
+        {
+          "name": "訂單截圖",
+          "file": "訂單截圖.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E8%A8%82%E5%96%AE%E6%88%AA%E5%9C%96.png"
+        },
+        {
+          "name": "旅遊保險資料",
+          "file": "旅遊保險資料.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E6%97%85%E9%81%8A%E4%BF%9D%E9%9A%AA%E8%B3%87%E6%96%99.png"
+        },
+        {
+          "name": "登機證",
+          "file": "登機證.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E7%99%BB%E6%A9%9F%E8%AD%89.png"
+        },
+        {
+          "name": "雲端備份確認",
+          "file": "雲端備份確認.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E9%9B%B2%E7%AB%AF%E5%82%99%E4%BB%BD%E7%A2%BA%E8%AA%8D.png"
+        },
+        {
+          "name": "簽證文件",
+          "file": "簽證文件.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E7%B0%BD%E8%AD%89%E6%96%87%E4%BB%B6.png"
+        },
+        {
+          "name": "證件影本",
+          "file": "證件影本.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E8%AD%89%E4%BB%B6%E5%BD%B1%E6%9C%AC.png"
+        },
+        {
+          "name": "護照",
+          "file": "護照.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E8%AD%B7%E7%85%A7.png"
+        },
+        {
+          "name": "護照影本",
+          "file": "護照影本.png",
+          "url": "/categories/%E6%96%87%E4%BB%B6/%E8%AD%B7%E7%85%A7%E5%BD%B1%E6%9C%AC.png"
+        }
+      ]
+    },
+    {
+      "category": "行程功能",
+      "count": 16,
+      "items": [
+        {
+          "name": "ai_sparkles",
+          "file": "ai_sparkles.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/ai_sparkles.png"
+        },
+        {
+          "name": "chevron_down",
+          "file": "chevron_down.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/chevron_down.png"
+        },
+        {
+          "name": "chevron_up",
+          "file": "chevron_up.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/chevron_up.png"
+        },
+        {
+          "name": "link_copy",
+          "file": "link_copy.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/link_copy.png"
+        },
+        {
+          "name": "loading_spinner",
+          "file": "loading_spinner.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/loading_spinner.png"
+        },
+        {
+          "name": "memo_note",
+          "file": "memo_note.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/memo_note.png"
+        },
+        {
+          "name": "menu_list",
+          "file": "menu_list.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/menu_list.png"
+        },
+        {
+          "name": "search",
+          "file": "search.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/search.png"
+        },
+        {
+          "name": "share",
+          "file": "share.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/share.png"
+        },
+        {
+          "name": "time_afternoon",
+          "file": "time_afternoon.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_afternoon.png"
+        },
+        {
+          "name": "time_all_day",
+          "file": "time_all_day.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_all_day.png"
+        },
+        {
+          "name": "time_custom",
+          "file": "time_custom.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_custom.png"
+        },
+        {
+          "name": "time_evening",
+          "file": "time_evening.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_evening.png"
+        },
+        {
+          "name": "time_forenoon",
+          "file": "time_forenoon.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_forenoon.png"
+        },
+        {
+          "name": "time_morning",
+          "file": "time_morning.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_morning.png"
+        },
+        {
+          "name": "time_noon",
+          "file": "time_noon.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%8A%9F%E8%83%BD/time_noon.png"
+        }
+      ]
+    },
+    {
+      "category": "行程基礎",
+      "count": 16,
+      "items": [
+        {
+          "name": "add_trip_wand",
+          "file": "add_trip_wand.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/add_trip_wand.png"
+        },
+        {
+          "name": "beach_umbrella_palm",
+          "file": "beach_umbrella_palm.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/beach_umbrella_palm.png"
+        },
+        {
+          "name": "checkmark_circle",
+          "file": "checkmark_circle.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/checkmark_circle.png"
+        },
+        {
+          "name": "chevron_left",
+          "file": "chevron_left.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/chevron_left.png"
+        },
+        {
+          "name": "chevron_right",
+          "file": "chevron_right.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/chevron_right.png"
+        },
+        {
+          "name": "clock",
+          "file": "clock.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/clock.png"
+        },
+        {
+          "name": "download_to_tray",
+          "file": "download_to_tray.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/download_to_tray.png"
+        },
+        {
+          "name": "drag_handle",
+          "file": "drag_handle.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/drag_handle.png"
+        },
+        {
+          "name": "edit_pencil",
+          "file": "edit_pencil.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/edit_pencil.png"
+        },
+        {
+          "name": "filter_funnel",
+          "file": "filter_funnel.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/filter_funnel.png"
+        },
+        {
+          "name": "location_pin",
+          "file": "location_pin.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/location_pin.png"
+        },
+        {
+          "name": "map_pin_count_badge",
+          "file": "map_pin_count_badge.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/map_pin_count_badge.png"
+        },
+        {
+          "name": "map_with_pin",
+          "file": "map_with_pin.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/map_with_pin.png"
+        },
+        {
+          "name": "plus",
+          "file": "plus.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/plus.png"
+        },
+        {
+          "name": "suitcase",
+          "file": "suitcase.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/suitcase.png"
+        },
+        {
+          "name": "trash_bin",
+          "file": "trash_bin.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E5%9F%BA%E7%A4%8E/trash_bin.png"
+        }
+      ]
+    },
+    {
+      "category": "行程進階",
+      "count": 16,
+      "items": [
+        {
+          "name": "bell",
+          "file": "bell.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/bell.png"
+        },
+        {
+          "name": "bookmark",
+          "file": "bookmark.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/bookmark.png"
+        },
+        {
+          "name": "compass",
+          "file": "compass.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/compass.png"
+        },
+        {
+          "name": "edit",
+          "file": "edit.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/edit.png"
+        },
+        {
+          "name": "heart",
+          "file": "heart.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/heart.png"
+        },
+        {
+          "name": "info",
+          "file": "info.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/info.png"
+        },
+        {
+          "name": "map_layers",
+          "file": "map_layers.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/map_layers.png"
+        },
+        {
+          "name": "minus",
+          "file": "minus.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/minus.png"
+        },
+        {
+          "name": "more",
+          "file": "more.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/more.png"
+        },
+        {
+          "name": "navigation_arrow",
+          "file": "navigation_arrow.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/navigation_arrow.png"
+        },
+        {
+          "name": "refresh",
+          "file": "refresh.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/refresh.png"
+        },
+        {
+          "name": "settings",
+          "file": "settings.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/settings.png"
+        },
+        {
+          "name": "share",
+          "file": "share.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/share.png"
+        },
+        {
+          "name": "sort",
+          "file": "sort.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/sort.png"
+        },
+        {
+          "name": "star",
+          "file": "star.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/star.png"
+        },
+        {
+          "name": "upload",
+          "file": "upload.png",
+          "url": "/categories/%E8%A1%8C%E7%A8%8B%E9%80%B2%E9%9A%8E/upload.png"
+        }
+      ]
+    },
+    {
+      "category": "衣物",
+      "count": 15,
+      "items": [
+        {
+          "name": "上衣長袖",
+          "file": "上衣長袖.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E4%B8%8A%E8%A1%A3%E9%95%B7%E8%A2%96.png"
+        },
+        {
+          "name": "上衣短袖",
+          "file": "上衣短袖.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E4%B8%8A%E8%A1%A3%E7%9F%AD%E8%A2%96.png"
+        },
+        {
+          "name": "內衣褲",
+          "file": "內衣褲.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E5%85%A7%E8%A1%A3%E8%A4%B2.png"
+        },
+        {
+          "name": "拖鞋",
+          "file": "拖鞋.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E6%8B%96%E9%9E%8B.png"
+        },
+        {
+          "name": "泳衣",
+          "file": "泳衣.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E6%B3%B3%E8%A1%A3.png"
+        },
+        {
+          "name": "雨衣防水外套",
+          "file": "雨衣防水外套.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E9%9B%A8%E8%A1%A3%E9%98%B2%E6%B0%B4%E5%A4%96%E5%A5%97.png"
+        },
+        {
+          "name": "保暖外套",
+          "file": "保暖外套.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E4%BF%9D%E6%9A%96%E5%A4%96%E5%A5%97.png"
+        },
+        {
+          "name": "圍巾披肩",
+          "file": "圍巾披肩.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E5%9C%8D%E5%B7%BE%E6%8A%AB%E8%82%A9.png"
+        },
+        {
+          "name": "帽子",
+          "file": "帽子.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E5%B8%BD%E5%AD%90.png"
+        },
+        {
+          "name": "短褲裙子",
+          "file": "短褲裙子.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E7%9F%AD%E8%A4%B2%E8%A3%99%E5%AD%90.png"
+        },
+        {
+          "name": "舒適步行鞋",
+          "file": "舒適步行鞋.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E8%88%92%E9%81%A9%E6%AD%A5%E8%A1%8C%E9%9E%8B.png"
+        },
+        {
+          "name": "睡衣",
+          "file": "睡衣.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E7%9D%A1%E8%A1%A3.png"
+        },
+        {
+          "name": "褲子",
+          "file": "褲子.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E8%A4%B2%E5%AD%90.png"
+        },
+        {
+          "name": "薄外套",
+          "file": "薄外套.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E8%96%84%E5%A4%96%E5%A5%97.png"
+        },
+        {
+          "name": "襪子",
+          "file": "襪子.png",
+          "url": "/categories/%E8%A1%A3%E7%89%A9/%E8%A5%AA%E5%AD%90.png"
+        }
+      ]
+    },
+    {
+      "category": "使用者頭像",
+      "count": 16,
+      "items": [
+        {
+          "name": "user_beanie_boy",
+          "file": "user_beanie_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_beanie_boy.png"
+        },
+        {
+          "name": "user_blonde_bun_girl",
+          "file": "user_blonde_bun_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_blonde_bun_girl.png"
+        },
+        {
+          "name": "user_blonde_overalls_girl",
+          "file": "user_blonde_overalls_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_blonde_overalls_girl.png"
+        },
+        {
+          "name": "user_blonde_purple_hoodie_boy",
+          "file": "user_blonde_purple_hoodie_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_blonde_purple_hoodie_boy.png"
+        },
+        {
+          "name": "user_blue_hoodie_boy",
+          "file": "user_blue_hoodie_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_blue_hoodie_boy.png"
+        },
+        {
+          "name": "user_brown_glasses_boy",
+          "file": "user_brown_glasses_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_brown_glasses_boy.png"
+        },
+        {
+          "name": "user_brown_pink_shirt_girl",
+          "file": "user_brown_pink_shirt_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_brown_pink_shirt_girl.png"
+        },
+        {
+          "name": "user_dark_green_jacket_girl",
+          "file": "user_dark_green_jacket_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_dark_green_jacket_girl.png"
+        },
+        {
+          "name": "user_gradient_hair_girl",
+          "file": "user_gradient_hair_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_gradient_hair_girl.png"
+        },
+        {
+          "name": "user_green_jacket_boy",
+          "file": "user_green_jacket_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_green_jacket_boy.png"
+        },
+        {
+          "name": "user_headphones_boy",
+          "file": "user_headphones_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_headphones_boy.png"
+        },
+        {
+          "name": "user_hoodie_dark_boy",
+          "file": "user_hoodie_dark_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_hoodie_dark_boy.png"
+        },
+        {
+          "name": "user_purple_glasses_girl",
+          "file": "user_purple_glasses_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_purple_glasses_girl.png"
+        },
+        {
+          "name": "user_space_buns_girl",
+          "file": "user_space_buns_girl.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_space_buns_girl.png"
+        },
+        {
+          "name": "user_straw_hat_boy",
+          "file": "user_straw_hat_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_straw_hat_boy.png"
+        },
+        {
+          "name": "user_tropical_shirt_boy",
+          "file": "user_tropical_shirt_boy.png",
+          "url": "/categories/%E4%BD%BF%E7%94%A8%E8%80%85%E9%A0%AD%E5%83%8F/user_tropical_shirt_boy.png"
+        }
+      ]
+    },
+    {
+      "category": "其他",
+      "count": 21,
+      "items": [
+        {
+          "name": "手機",
+          "file": "手機.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E6%89%8B%E6%A9%9F.png"
+        },
+        {
+          "name": "止痛退燒藥",
+          "file": "止痛退燒藥.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E6%AD%A2%E7%97%9B%E9%80%80%E7%87%92%E8%97%A5.png"
+        },
+        {
+          "name": "牙刷",
+          "file": "牙刷.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E7%89%99%E5%88%B7.png"
+        },
+        {
+          "name": "牙膏",
+          "file": "牙膏.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E7%89%99%E8%86%8F.png"
+        },
+        {
+          "name": "回程提醒事項",
+          "file": "回程提醒事項.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E5%9B%9E%E7%A8%8B%E6%8F%90%E9%86%92%E4%BA%8B%E9%A0%85.png"
+        },
+        {
+          "name": "行動電源",
+          "file": "行動電源.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90.png"
+        },
+        {
+          "name": "指南針",
+          "file": "指南針.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E6%8C%87%E5%8D%97%E9%87%9D.png"
+        },
+        {
+          "name": "洗衣袋",
+          "file": "洗衣袋.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E6%B4%97%E8%A1%A3%E8%A2%8B.png"
+        },
+        {
+          "name": "健保卡",
+          "file": "健保卡.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E5%81%A5%E4%BF%9D%E5%8D%A1.png"
+        },
+        {
+          "name": "清單表",
+          "file": "清單表.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E6%B8%85%E5%96%AE%E8%A1%A8.png"
+        },
+        {
+          "name": "筆記本與筆",
+          "file": "筆記本與筆.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E7%AD%86%E8%A8%98%E6%9C%AC%E8%88%87%E7%AD%86.png"
+        },
+        {
+          "name": "塑膠袋",
+          "file": "塑膠袋.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E5%A1%91%E8%86%A0%E8%A2%8B.png"
+        },
+        {
+          "name": "當地緊急電話",
+          "file": "當地緊急電話.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E7%95%B6%E5%9C%B0%E7%B7%8A%E6%80%A5%E9%9B%BB%E8%A9%B1.png"
+        },
+        {
+          "name": "運動服",
+          "file": "運動服.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E9%81%8B%E5%8B%95%E6%9C%8D.png"
+        },
+        {
+          "name": "緊急聯絡資訊",
+          "file": "緊急聯絡資訊.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E7%B7%8A%E6%80%A5%E8%81%AF%E7%B5%A1%E8%B3%87%E8%A8%8A.png"
+        },
+        {
+          "name": "駕照",
+          "file": "駕照.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E9%A7%95%E7%85%A7.png"
+        },
+        {
+          "name": "墨鏡",
+          "file": "墨鏡.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E5%A2%A8%E9%8F%A1.png"
+        },
+        {
+          "name": "濕衣物塑膠袋",
+          "file": "濕衣物塑膠袋.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E6%BF%95%E8%A1%A3%E7%89%A9%E5%A1%91%E8%86%A0%E8%A2%8B.png"
+        },
+        {
+          "name": "環保購物袋",
+          "file": "環保購物袋.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E7%92%B0%E4%BF%9D%E8%B3%BC%E7%89%A9%E8%A2%8B.png"
+        },
+        {
+          "name": "隱眼藥水保養液",
+          "file": "隱眼藥水保養液.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E9%9A%B1%E7%9C%BC%E8%97%A5%E6%B0%B4%E4%BF%9D%E9%A4%8A%E6%B6%B2.png"
+        },
+        {
+          "name": "護唇膏",
+          "file": "護唇膏.png",
+          "url": "/categories/%E5%85%B6%E4%BB%96/%E8%AD%B7%E5%94%87%E8%86%8F.png"
+        }
+      ]
+    },
+    {
+      "category": "社群",
+      "count": 9,
+      "items": [
+        {
+          "name": "Facebook標誌",
+          "file": "Facebook標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/Facebook%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "Instagram標誌",
+          "file": "Instagram標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/Instagram%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "LINE標誌",
+          "file": "LINE標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/LINE%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "Telegram標誌",
+          "file": "Telegram標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/Telegram%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "Threads標誌",
+          "file": "Threads標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/Threads%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "WeChat標誌",
+          "file": "WeChat標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/WeChat%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "WhatsApp標誌",
+          "file": "WhatsApp標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/WhatsApp%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "X標誌",
+          "file": "X標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/X%E6%A8%99%E8%AA%8C.png"
+        },
+        {
+          "name": "YouTube標誌",
+          "file": "YouTube標誌.png",
+          "url": "/categories/%E7%A4%BE%E7%BE%A4/YouTube%E6%A8%99%E8%AA%8C.png"
+        }
+      ]
+    },
+    {
+      "category": "金錢",
+      "count": 7,
+      "items": [
+        {
+          "name": "金融卡",
+          "file": "金融卡.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E9%87%91%E8%9E%8D%E5%8D%A1.png"
+        },
+        {
+          "name": "信用卡",
+          "file": "信用卡.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E4%BF%A1%E7%94%A8%E5%8D%A1.png"
+        },
+        {
+          "name": "現金外幣",
+          "file": "現金外幣.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E7%8F%BE%E9%87%91%E5%A4%96%E5%B9%A3.png"
+        },
+        {
+          "name": "現金本國",
+          "file": "現金本國.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E7%8F%BE%E9%87%91%E6%9C%AC%E5%9C%8B.png"
+        },
+        {
+          "name": "零錢包",
+          "file": "零錢包.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E9%9B%B6%E9%8C%A2%E5%8C%85.png"
+        },
+        {
+          "name": "電子支付備援卡",
+          "file": "電子支付備援卡.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98%E5%82%99%E6%8F%B4%E5%8D%A1.png"
+        },
+        {
+          "name": "錢包",
+          "file": "錢包.png",
+          "url": "/categories/%E9%87%91%E9%8C%A2/%E9%8C%A2%E5%8C%85.png"
+        }
+      ]
+    },
+    {
+      "category": "旅遊",
+      "count": 17,
+      "items": [
+        {
+          "name": "小手電筒",
+          "file": "小手電筒.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%B0%8F%E6%89%8B%E9%9B%BB%E7%AD%92.png"
+        },
+        {
+          "name": "小鎖頭",
+          "file": "小鎖頭.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%B0%8F%E9%8E%96%E9%A0%AD.png"
+        },
+        {
+          "name": "山岳",
+          "file": "山岳.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%B1%B1%E5%B2%B3.png"
+        },
+        {
+          "name": "火車",
+          "file": "火車.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E7%81%AB%E8%BB%8A.png"
+        },
+        {
+          "name": "交通票券",
+          "file": "交通票券.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E4%BA%A4%E9%80%9A%E7%A5%A8%E5%88%B8.png"
+        },
+        {
+          "name": "地圖",
+          "file": "地圖.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%9C%B0%E5%9C%96.png"
+        },
+        {
+          "name": "地圖圖示",
+          "file": "地圖圖示.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%9C%B0%E5%9C%96%E5%9C%96%E7%A4%BA.png"
+        },
+        {
+          "name": "伴手禮清單",
+          "file": "伴手禮清單.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E4%BC%B4%E6%89%8B%E7%A6%AE%E6%B8%85%E5%96%AE.png"
+        },
+        {
+          "name": "住宿訂單",
+          "file": "住宿訂單.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E4%BD%8F%E5%AE%BF%E8%A8%82%E5%96%AE.png"
+        },
+        {
+          "name": "定位圖釘",
+          "file": "定位圖釘.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%AE%9A%E4%BD%8D%E5%9C%96%E9%87%98.png"
+        },
+        {
+          "name": "延長線多孔充電器",
+          "file": "延長線多孔充電器.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E5%BB%B6%E9%95%B7%E7%B7%9A%E5%A4%9A%E5%AD%94%E5%85%85%E9%9B%BB%E5%99%A8.png"
+        },
+        {
+          "name": "飛機",
+          "file": "飛機.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E9%A3%9B%E6%A9%9F.png"
+        },
+        {
+          "name": "旅遊保險資料",
+          "file": "旅遊保險資料.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E6%97%85%E9%81%8A%E4%BF%9D%E9%9A%AA%E8%B3%87%E6%96%99.png"
+        },
+        {
+          "name": "旅遊指南地圖",
+          "file": "旅遊指南地圖.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E6%97%85%E9%81%8A%E6%8C%87%E5%8D%97%E5%9C%B0%E5%9C%96.png"
+        },
+        {
+          "name": "旅館建築",
+          "file": "旅館建築.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E6%97%85%E9%A4%A8%E5%BB%BA%E7%AF%89.png"
+        },
+        {
+          "name": "海灘陽傘",
+          "file": "海灘陽傘.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E6%B5%B7%E7%81%98%E9%99%BD%E5%82%98.png"
+        },
+        {
+          "name": "購物袋",
+          "file": "購物袋.png",
+          "url": "/categories/%E6%97%85%E9%81%8A/%E8%B3%BC%E7%89%A9%E8%A2%8B.png"
+        }
+      ]
+    },
+    {
+      "category": "配件",
+      "count": 15,
+      "items": [
+        {
+          "name": "小收納袋",
+          "file": "小收納袋.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E5%B0%8F%E6%94%B6%E7%B4%8D%E8%A2%8B.png"
+        },
+        {
+          "name": "小鎖頭",
+          "file": "小鎖頭.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E5%B0%8F%E9%8E%96%E9%A0%AD.png"
+        },
+        {
+          "name": "水壺",
+          "file": "水壺.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E6%B0%B4%E5%A3%BA.png"
+        },
+        {
+          "name": "收納袋壓縮袋",
+          "file": "收納袋壓縮袋.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E6%94%B6%E7%B4%8D%E8%A2%8B%E5%A3%93%E7%B8%AE%E8%A2%8B.png"
+        },
+        {
+          "name": "耳塞",
+          "file": "耳塞.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E8%80%B3%E5%A1%9E.png"
+        },
+        {
+          "name": "行李吊牌",
+          "file": "行李吊牌.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E8%A1%8C%E6%9D%8E%E5%90%8A%E7%89%8C.png"
+        },
+        {
+          "name": "行李束帶",
+          "file": "行李束帶.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E8%A1%8C%E6%9D%8E%E6%9D%9F%E5%B8%B6.png"
+        },
+        {
+          "name": "行李箱",
+          "file": "行李箱.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E8%A1%8C%E6%9D%8E%E7%AE%B1.png"
+        },
+        {
+          "name": "夾鏈袋",
+          "file": "夾鏈袋.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E5%A4%BE%E9%8F%88%E8%A2%8B.png"
+        },
+        {
+          "name": "折疊傘",
+          "file": "折疊傘.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E6%8A%98%E7%96%8A%E5%82%98.png"
+        },
+        {
+          "name": "後背包隨身包",
+          "file": "後背包隨身包.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E5%BE%8C%E8%83%8C%E5%8C%85%E9%9A%A8%E8%BA%AB%E5%8C%85.png"
+        },
+        {
+          "name": "眼罩",
+          "file": "眼罩.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E7%9C%BC%E7%BD%A9.png"
+        },
+        {
+          "name": "零錢包",
+          "file": "零錢包.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E9%9B%B6%E9%8C%A2%E5%8C%85.png"
+        },
+        {
+          "name": "頸枕",
+          "file": "頸枕.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E9%A0%B8%E6%9E%95.png"
+        },
+        {
+          "name": "鑰匙扣",
+          "file": "鑰匙扣.png",
+          "url": "/categories/%E9%85%8D%E4%BB%B6/%E9%91%B0%E5%8C%99%E6%89%A3.png"
+        }
+      ]
+    },
+    {
+      "category": "健康",
+      "count": 11,
+      "items": [
+        {
+          "name": "口罩",
+          "file": "口罩.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E5%8F%A3%E7%BD%A9.png"
+        },
+        {
+          "name": "女性生理用品",
+          "file": "女性生理用品.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E5%A5%B3%E6%80%A7%E7%94%9F%E7%90%86%E7%94%A8%E5%93%81.png"
+        },
+        {
+          "name": "個人常備藥",
+          "file": "個人常備藥.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E5%80%8B%E4%BA%BA%E5%B8%B8%E5%82%99%E8%97%A5.png"
+        },
+        {
+          "name": "蚊蟲防護液",
+          "file": "蚊蟲防護液.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E8%9A%8A%E8%9F%B2%E9%98%B2%E8%AD%B7%E6%B6%B2.png"
+        },
+        {
+          "name": "眼罩",
+          "file": "眼罩.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E7%9C%BC%E7%BD%A9.png"
+        },
+        {
+          "name": "喉糖",
+          "file": "喉糖.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E5%96%89%E7%B3%96.png"
+        },
+        {
+          "name": "感冒藥",
+          "file": "感冒藥.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E6%84%9F%E5%86%92%E8%97%A5.png"
+        },
+        {
+          "name": "暈車暈船藥",
+          "file": "暈車暈船藥.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E6%9A%88%E8%BB%8A%E6%9A%88%E8%88%B9%E8%97%A5.png"
+        },
+        {
+          "name": "腸胃藥",
+          "file": "腸胃藥.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E8%85%B8%E8%83%83%E8%97%A5.png"
+        },
+        {
+          "name": "過敏藥",
+          "file": "過敏藥.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/%E9%81%8E%E6%95%8F%E8%97%A5.png"
+        },
+        {
+          "name": "OK繃",
+          "file": "OK繃.png",
+          "url": "/categories/%E5%81%A5%E5%BA%B7/OK%E7%B9%83.png"
+        }
+      ]
+    },
+    {
+      "category": "動物",
+      "count": 4,
+      "items": [
+        {
+          "name": "可愛狗臉",
+          "file": "可愛狗臉.png",
+          "url": "/categories/%E5%8B%95%E7%89%A9/%E5%8F%AF%E6%84%9B%E7%8B%97%E8%87%89.png"
+        },
+        {
+          "name": "可愛倉鼠臉",
+          "file": "可愛倉鼠臉.png",
+          "url": "/categories/%E5%8B%95%E7%89%A9/%E5%8F%AF%E6%84%9B%E5%80%89%E9%BC%A0%E8%87%89.png"
+        },
+        {
+          "name": "可愛豬臉",
+          "file": "可愛豬臉.png",
+          "url": "/categories/%E5%8B%95%E7%89%A9/%E5%8F%AF%E6%84%9B%E8%B1%AC%E8%87%89.png"
+        },
+        {
+          "name": "可愛貓臉",
+          "file": "可愛貓臉.png",
+          "url": "/categories/%E5%8B%95%E7%89%A9/%E5%8F%AF%E6%84%9B%E8%B2%93%E8%87%89.png"
+        }
+      ]
+    },
+    {
+      "category": "盥洗",
+      "count": 18,
+      "items": [
+        {
+          "name": "化妝品",
+          "file": "化妝品.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E5%8C%96%E5%A6%9D%E5%93%81.png"
+        },
+        {
+          "name": "毛巾",
+          "file": "毛巾.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E6%AF%9B%E5%B7%BE.png"
+        },
+        {
+          "name": "牙線",
+          "file": "牙線.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E7%89%99%E7%B7%9A.png"
+        },
+        {
+          "name": "快乾毛巾",
+          "file": "快乾毛巾.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E5%BF%AB%E4%B9%BE%E6%AF%9B%E5%B7%BE.png"
+        },
+        {
+          "name": "沐浴乳",
+          "file": "沐浴乳.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E6%B2%90%E6%B5%B4%E4%B9%B3.png"
+        },
+        {
+          "name": "防曬乳",
+          "file": "防曬乳.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E9%98%B2%E6%9B%AC%E4%B9%B3.png"
+        },
+        {
+          "name": "刮鬍用品",
+          "file": "刮鬍用品.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E5%88%AE%E9%AC%8D%E7%94%A8%E5%93%81.png"
+        },
+        {
+          "name": "卸妝用品",
+          "file": "卸妝用品.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E5%8D%B8%E5%A6%9D%E7%94%A8%E5%93%81.png"
+        },
+        {
+          "name": "保養品",
+          "file": "保養品.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E4%BF%9D%E9%A4%8A%E5%93%81.png"
+        },
+        {
+          "name": "洗面乳",
+          "file": "洗面乳.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E6%B4%97%E9%9D%A2%E4%B9%B3.png"
+        },
+        {
+          "name": "洗髮精",
+          "file": "洗髮精.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E6%B4%97%E9%AB%AE%E7%B2%BE.png"
+        },
+        {
+          "name": "酒精乾洗手",
+          "file": "酒精乾洗手.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E9%85%92%E7%B2%BE%E4%B9%BE%E6%B4%97%E6%89%8B.png"
+        },
+        {
+          "name": "眼鏡",
+          "file": "眼鏡.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E7%9C%BC%E9%8F%A1.png"
+        },
+        {
+          "name": "潤髮乳",
+          "file": "潤髮乳.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E6%BD%A4%E9%AB%AE%E4%B9%B3.png"
+        },
+        {
+          "name": "衛生紙",
+          "file": "衛生紙.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E8%A1%9B%E7%94%9F%E7%B4%99.png"
+        },
+        {
+          "name": "優碘消毒棉片",
+          "file": "優碘消毒棉片.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E5%84%AA%E7%A2%98%E6%B6%88%E6%AF%92%E6%A3%89%E7%89%87.png"
+        },
+        {
+          "name": "濕紙巾",
+          "file": "濕紙巾.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E6%BF%95%E7%B4%99%E5%B7%BE.png"
+        },
+        {
+          "name": "隱形眼鏡",
+          "file": "隱形眼鏡.png",
+          "url": "/categories/%E7%9B%A5%E6%B4%97/%E9%9A%B1%E5%BD%A2%E7%9C%BC%E9%8F%A1.png"
+        }
+      ]
+    },
+    {
+      "category": "餐飲",
+      "count": 7,
+      "items": [
+        {
+          "name": "可重複使用保鮮盒",
+          "file": "可重複使用保鮮盒.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E5%8F%AF%E9%87%8D%E8%A4%87%E4%BD%BF%E7%94%A8%E4%BF%9D%E9%AE%AE%E7%9B%92.png"
+        },
+        {
+          "name": "咖啡杯",
+          "file": "咖啡杯.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E5%92%96%E5%95%A1%E6%9D%AF.png"
+        },
+        {
+          "name": "便攜餐具",
+          "file": "便攜餐具.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E4%BE%BF%E6%94%9C%E9%A4%90%E5%85%B7.png"
+        },
+        {
+          "name": "茶包咖啡包",
+          "file": "茶包咖啡包.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E8%8C%B6%E5%8C%85%E5%92%96%E5%95%A1%E5%8C%85.png"
+        },
+        {
+          "name": "零食",
+          "file": "零食.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E9%9B%B6%E9%A3%9F.png"
+        },
+        {
+          "name": "餐廳刀叉",
+          "file": "餐廳刀叉.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E9%A4%90%E5%BB%B3%E5%88%80%E5%8F%89.png"
+        },
+        {
+          "name": "雞尾酒杯",
+          "file": "雞尾酒杯.png",
+          "url": "/categories/%E9%A4%90%E9%A3%B2/%E9%9B%9E%E5%B0%BE%E9%85%92%E6%9D%AF.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+services:
+  icon-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: icon-web:latest
+    container_name: icon-web
+    ports:
+      - "${WEB_PORT:-3000}:80"
+    restart: unless-stopped
