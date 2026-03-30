@@ -19,6 +19,7 @@ const CATEGORY_ORDER = [
   "使用者頭像",
   "介面",
   "其他",
+  "國家",
 ];
 
 const ITEM_NAME_OVERRIDES = {
@@ -280,22 +281,6 @@ export default function App() {
     window.scrollTo({ top: Math.max(0, y), behavior: "smooth" });
   }
 
-  const sectionMotion = isMobile
-    ? {
-        initial: { opacity: 0, y: 64, scale: 0.95 },
-        whileInView: { opacity: 1, y: 0, scale: 1 },
-        exit: { opacity: 0, y: -52, scale: 0.96 },
-        viewport: { amount: 0.2, once: false },
-        transition: { duration: 0.58, ease: [0.22, 1, 0.36, 1] },
-      }
-    : {
-        initial: { opacity: 0, y: 24 },
-        whileInView: { opacity: 1, y: 0 },
-        exit: { opacity: 0, y: -20 },
-        viewport: { amount: 0.22, once: false },
-        transition: { duration: 0.32 },
-      };
-
   const cardMotion = isMobile
     ? {
         initial: { opacity: 0, y: 28, scale: 0.9 },
@@ -406,26 +391,14 @@ export default function App() {
 
         <main className="categoriesSection">
           <AnimatePresence mode="popLayout">
-            {filteredSections.map((section, sectionIdx) => {
+            {filteredSections.map((section) => {
               const id = encodeURIComponent(section.category);
-              const showFirstSectionImmediately = sectionIdx === 0;
               return (
                 <motion.section
                   key={section.category}
                   id={id}
                   className="categoryBlock"
                   layout
-                  initial={
-                    showFirstSectionImmediately ? false : sectionMotion.initial
-                  }
-                  whileInView={
-                    showFirstSectionImmediately
-                      ? undefined
-                      : sectionMotion.whileInView
-                  }
-                  exit={sectionMotion.exit}
-                  viewport={sectionMotion.viewport}
-                  transition={sectionMotion.transition}
                 >
                   <header className="categoryHeader">
                     <h2 className="categoryTitle">
@@ -451,25 +424,19 @@ export default function App() {
                   <div className="iconGrid">
                     <AnimatePresence mode="popLayout">
                       {section.items.map((item, idx) => {
-                        const showFirstSectionIconsImmediately = false;
                         return (
                           <motion.article
                             key={`${section.category}-${item.file}`}
                             className="iconCard"
                             layout
-                            initial={
-                              showFirstSectionIconsImmediately
-                                ? false
-                                : cardMotion.initial
-                            }
+                            initial={cardMotion.initial}
                             whileInView={cardMotion.whileInView}
                             exit={cardMotion.exit}
                             viewport={cardMotion.viewport}
                             transition={{
                               ...cardMotion.transition,
                               delay: isMobile
-                                ? (showFirstSectionIconsImmediately ? 0 : 0.1) +
-                                  (idx % 2) * 0.09
+                                ? 0.1 + (idx % 2) * 0.09
                                 : 0,
                             }}
                           >
