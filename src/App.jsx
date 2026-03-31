@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 
+const CDN_BASE = "https://pub-c54e74352c804aeca33e003f2539764c.r2.dev/icons";
+
 const CATEGORY_ORDER = [
   "旅遊",
   "行程基礎",
@@ -183,13 +185,21 @@ function getStickyOffsetHeight() {
   return h;
 }
 
-function downloadIcon(url, file) {
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = file;
-  document.body.appendChild(a);
-  a.click();
-  a.remove();
+async function downloadIcon(url, file) {
+  try {
+    const res = await fetch(url);
+    const blob = await res.blob();
+    const blobUrl = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = blobUrl;
+    a.download = file;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(blobUrl);
+  } catch {
+    window.open(url, "_blank");
+  }
 }
 
 export default function App() {
@@ -215,9 +225,13 @@ export default function App() {
             if (!grouped.has(targetCategory)) {
               grouped.set(targetCategory, []);
             }
+            const cdnUrl = item.url
+              ? `${CDN_BASE}/${encodeURIComponent(targetCategory)}/${encodeURIComponent(item.file)}`
+              : item.url;
             grouped.get(targetCategory).push({
               ...item,
               name: displayName,
+              url: cdnUrl,
             });
           }
         }
@@ -316,7 +330,7 @@ export default function App() {
             <div className="brandLeft">
               <img
                 className="brandLogo"
-                src="/logo.png"
+                src="https://pub-c54e74352c804aeca33e003f2539764c.r2.dev/assets/logo.png"
                 alt="ICON 像素圖示庫"
               />
               <h1 className="fancyTitle srOnly">ICON 像素圖示庫</h1>
@@ -481,9 +495,7 @@ export default function App() {
         onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
       >
         <img
-          src={`/categories/${encodeURIComponent(
-            "行程功能"
-          )}/${encodeURIComponent("chevron_up.png")}`}
+          src={`${CDN_BASE}/${encodeURIComponent("行程功能")}/${encodeURIComponent("chevron_up.png")}`}
           alt="回到頂部"
         />
       </button>
